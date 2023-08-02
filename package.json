@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "Esto es un ejercicio de QA Play",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datorresp/cypress-excercise2.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Diego Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Datorresp/cypress-excercise2/issues"
+  },
+  "homepage": "https://github.com/Datorresp/cypress-excercise2#readme"
+}
